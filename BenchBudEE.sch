@@ -29,6 +29,7 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:BenchBudEEparts
 LIBS:BenchBudEE-cache
 EELAYER 27 0
 EELAYER END
@@ -36,7 +37,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 8
 Title ""
-Date "7 feb 2014"
+Date "10 feb 2014"
 Rev ""
 Comp ""
 Comment1 ""
@@ -108,6 +109,11 @@ F3 "Power-" I R 8400 950 60
 F4 "Tach" I R 8400 1100 60 
 F5 "Tach_out" O L 6850 800 60 
 F6 "Fan_in" I L 6850 950 60 
+F7 "Current Measure" O L 6850 1800 60 
+F8 "MOSI" I L 6850 1150 60 
+F9 "MISO" O L 6850 1250 60 
+F10 "CS_N" I L 6850 1450 60 
+F11 "SCLK" I L 6850 1350 60 
 $EndSheet
 $Sheet
 S 9900 2100 650  4350
