@@ -401,7 +401,7 @@ Text HLabel 10100 3400 2    60   Output ~ 0
 3V3_MON
 Text HLabel 10100 3550 2    60   Output ~ 0
 5V_MON
-Text HLabel 10100 3700 2    60   3State ~ 0
+Text HLabel 10100 3700 2    60   Output ~ 0
 V+_ADJ_MON
 Text HLabel 10100 3900 2    60   Output ~ 0
 V-_ADJ_MON
